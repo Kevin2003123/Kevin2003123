@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://codepen.io/kevin2003123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kevin2003123" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kevin-reyes-2a1470125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin-reyes-2a1470125" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kevin fangio reyes lopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kevin fangio reyes lopez" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC6Vctd59L47U0UNoCrY4Wxg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kevin fangio reyes lopez" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kevinreyes005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kevinreyes005" height="30" width="40" /></a>
 </p>
 
